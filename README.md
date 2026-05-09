@@ -46,3 +46,5 @@ Full-stack admin and user platform using React and Node.js.
 
 - GitHub: https://github.com/thitipongroo
 - Linked: https://www.linkedin.com/in/thitipongroo/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thitipongroo/)
