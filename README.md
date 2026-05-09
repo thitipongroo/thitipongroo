@@ -17,14 +17,6 @@ Software Engineer focused on backend systems, IoT automation, and full-stack app
 
 ## Tech Stack
 
-- Java
-- Spring Boot
-- Node.js
-- React
-- Firebase
-- Cypress
-- C++
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
