@@ -27,6 +27,12 @@ Software Engineer focused on backend systems, IoT automation, and full-stack app
 
 ---
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thitipongroo&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thitipongroo&layout=compact)
+
+---
+
 ## Highlight Projects
 
 ### Smart Window
