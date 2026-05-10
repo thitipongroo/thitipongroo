@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm Thitipong.
-
-Software Engineer focused on backend systems, IoT automation, and full-stack applications.
+I'm a software engineer focused on backend systems, IoT automation and full-stack applications.
 
 ---
 
