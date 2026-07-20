@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Thitipong — a software engineer focused on backend systems, IoT automation, full-stack applications, and test automation.
+I'm Thitipong — Backend Engineer (Java / Node.js) · IoT & Embedded Systems · QA Automation · Building at One Inspector and Consultant
 
 ---
 
@@ -53,30 +53,32 @@ End-to-end automation using **Cypress** with a full Page Object Model architectu
 
 ## Highlight Projects
 
-### Cypress Cinema Automation
+> **Status key:** ✅ Completed &nbsp;·&nbsp; 🚧 In progress &nbsp;·&nbsp; 📚 Portfolio / learning project
+
+### Cypress Cinema Automation &nbsp;`📚 Portfolio project`
 
 E2E test suite for the SF Cinema City booking platform.
 
 - **Tests:** language switching → cinema selection → movie selection → showtime verification → seat selection
 - **Stack:** Cypress 13, Page Object Model, Mochawesome, GitHub Actions
 
-### Smart Window
+### Smart Window &nbsp;`<!-- ✅ / 🚧 / 📚 → fill in your actual status -->`
 
 IoT automation system that reads environmental sensor data and drives microcontroller-based window control logic.
 
 - **Stack:** Embedded C, sensor integration, decision-tree automation logic
 
-### Remote Vote Firebase
+### Remote Vote Firebase &nbsp;`<!-- ✅ / 🚧 / 📚 → fill in your actual status -->`
 
 Secure remote voting system with real-time result updates.
 
 - **Stack:** Firebase Authentication, Cloud Functions, Realtime Database
 
-### Codebox Platform
+### Codebox Platform &nbsp;`🚧 In progress`
 
-Full-stack admin and user management platform.
+Full-stack admin and user management platform. Currently migrating frontend from EJS to React.
 
-- **Stack:** React, Node.js, REST API
+- **Stack:** Node.js, REST API · Frontend migration: EJS → React + Tailwind CSS
 
 ---
 
