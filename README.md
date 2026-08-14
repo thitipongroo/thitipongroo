@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Thitipong — Backend Engineer (Java / Node.js) · IoT & Embedded Systems · QA Automation · Building at One Inspector and Consultant
+I'm Thitipong Roongprasert — Backend Engineer (Java / Node.js) · IoT & Embedded Systems · QA Automation · Building at ONE INSPECTOR AND CONSULTANT COMPANY LIMITED
 
 ---
 
