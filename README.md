@@ -62,19 +62,19 @@ E2E test suite for the SF Cinema City booking platform.
 - **Tests:** language switching → cinema selection → movie selection → showtime verification → seat selection
 - **Stack:** Cypress 13, Page Object Model, Mochawesome, GitHub Actions
 
-### Smart Window &nbsp;`<!-- ✅ / 🚧 / 📚 → fill in your actual status -->`
+### Smart Window &nbsp;`✅ Completed`
 
 IoT automation system that reads environmental sensor data and drives microcontroller-based window control logic.
 
 - **Stack:** Embedded C, sensor integration, decision-tree automation logic
 
-### Remote Vote Firebase &nbsp;`<!-- ✅ / 🚧 / 📚 → fill in your actual status -->`
+### Remote Vote Firebase &nbsp;`✅ Completed`
 
 Secure remote voting system with real-time result updates.
 
 - **Stack:** Firebase Authentication, Cloud Functions, Realtime Database
 
-### Codebox Platform &nbsp;`🚧 In progress`
+### Codebox Platform &nbsp;`✅ Completed`
 
 Full-stack admin and user management platform. Currently migrating frontend from EJS to React.
 
