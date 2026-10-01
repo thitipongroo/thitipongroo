@@ -8,7 +8,7 @@ I am a passionate developer with a strong background in building scalable backen
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**
+**Languages & Frameworks : **
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -16,14 +16,14 @@ I am a passionate developer with a strong background in building scalable backen
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases & Cloud:**
+**Databases & Cloud : **
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Testing & QA:**
+**Testing & QA : **
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-**IoT & Hardware:**
+**IoT & Hardware : **
 * Sensors, Microcontrollers, Smart Devices Integration, MQTT
 
 ---
