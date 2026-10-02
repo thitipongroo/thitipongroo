@@ -15,7 +15,10 @@ I build backend services for production traffic. Most recently a real-time analy
 
 **IoT & Hardware**
 
-Sensors, Microcontrollers, Smart Devices Integration, MQTT
+![Sensors](https://img.shields.io/badge/Sensors-4B32C3?style=flat)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00979D?style=flat&logo=arduino&logoColor=white)
+![Smart Devices Integration](https://img.shields.io/badge/Smart_Devices_Integration-0078D4?style=flat)
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat&logo=mqtt&logoColor=white)
 
 **Languages**
 
