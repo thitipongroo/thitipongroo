@@ -130,7 +130,7 @@ A zero-config CLI tool published on NPM to generate and publish mock IoT sensor 
 [![NPM Version](https://img.shields.io/npm/v/mqtt-mock-sensor?style=flat&color=CB3837&logo=npm)](https://www.npmjs.com/package/mqtt-mock-sensor)
 [![NPM Downloads](https://img.shields.io/npm/dt/mqtt-mock-sensor?style=flat&color=28a745)](https://www.npmjs.com/package/mqtt-mock-sensor)
 
-- **Plug-and-play testing:** Instantly streams randomized temperature, humidity, and motion metrics via MQTT protocol.
+- **Plug-and-play testing:** Instantly streams randomized temperature, humidity, and power metrics via MQTT protocol.
 - **Global execution:** Usable instantly by any developer worldwide via `npx mqtt-mock-sensor`.
 
 ### [LINE Bot API](https://github.com/thitipongroo/line-bot-api) · Java, Spring Boot `🔄 Active Maintaintance`
