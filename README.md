@@ -4,12 +4,18 @@
 
 I build backend services for production traffic. Most recently a real-time analytics platform sustaining 10M+ requests/day at sub-100ms response times, built on Kafka and Redis. Two platforms I'm building at **One Inspector and Consultant**, my own consultancy: **[Sentinel IoT Platform](https://github.com/thitipongroo/sentinel-iot-platform)**, an industrial monitoring system in Java 21 / Spring Boot with MQTT ingestion, circuit-breaker resilience and GitOps deployment to EKS; and **[Construction OS](https://github.com/thitipongroo/cos)**, an AI-native construction management platform currently in development.
 
+**📫 Let's Connect!**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thitipongroo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thitipong.roo@gmail.com)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack and Tools
+
+**IoT & Hardware**
+
+Sensors, Microcontrollers, Smart Devices Integration, MQTT
 
 **Languages**
 
@@ -84,7 +90,7 @@ Event-driven delivery with retry/backoff, dead-letter handling, and idempotent s
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### [Construction OS](https://github.com/thitipongroo/cos) · NestJS, Next.js, React Native, Python, Go `🚧 In development`
 
