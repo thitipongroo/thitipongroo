@@ -123,6 +123,16 @@ Industrial IoT monitoring platform — MQTT sensor ingestion, threshold alerting
 - **Deploy** — Docker Compose locally; EKS via Terraform and Helm, GitOps with ArgoCD, blue/green and canary rollouts with Argo Rollouts, event-driven autoscaling with KEDA, Velero backup/DR
 - **Frontend** — Next.js 14 App Router, Tailwind, Recharts, react-query, Zustand, list virtualization
 
+### [MQTT Mock Sensor](https://github.com/thitipongroo/mqtt-mock-sensor) · Node.js, MQTT `📦 Open Source (NPM)`
+
+A zero-config CLI tool published on NPM to generate and publish mock IoT sensor data. Built to help frontend and backend engineers test their IoT dashboards without physical hardware.
+
+[![NPM Version](https://img.shields.io/npm/v/mqtt-mock-sensor?style=flat&color=CB3837&logo=npm)](https://www.npmjs.com/package/mqtt-mock-sensor)
+[![NPM Downloads](https://img.shields.io/npm/dt/mqtt-mock-sensor?style=flat&color=28a745)](https://www.npmjs.com/package/mqtt-mock-sensor)
+
+- **Plug-and-play testing:** Instantly streams randomized temperature, humidity, and motion metrics via MQTT protocol.
+- **Global execution:** Usable instantly by any developer worldwide via `npx mqtt-mock-sensor`.
+
 ### [LINE Bot API](https://github.com/thitipongroo/line-bot-api) · Java, Spring Boot `🔄 Active Maintaintance`
 
 RESTful service integrated with the LINE Messaging API, handling webhook events and message delivery.
