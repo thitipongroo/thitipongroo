@@ -152,4 +152,4 @@ IoT automation that reads environmental sensor data and drives microcontroller-b
 
 ## Certifications
 
-Google Cybersecurity · Prompt Engineering & Agentic AI (AIS Academy) · Secure Coding: OWASP Top 10 · Secure Coding on Frontend
+Google Cybersecurity · Prompt Engineering & Agentic AI · Secure Coding: OWASP Top 10 · Secure Coding on Frontend
