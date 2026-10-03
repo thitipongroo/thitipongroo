@@ -25,7 +25,7 @@
   <br><br>
 </div>
 
-**[MQTT Mock Sensor](https://github.com/thitipongroo/mqtt-mock-sensor)** is a zero-config, production-grade CLI tool published on NPM to generate and stream mock IoT sensor telemetry (Env, GPS, Power) to any MQTT broker. Built to accelerate data pipeline development and E2E testing for frontend and backend engineers without needing physical hardware.
+**[MQTT MOCK SENSOR](https://github.com/thitipongroo/mqtt-mock-sensor)** is a zero-config, production-grade CLI tool published on NPM to generate and stream mock IoT sensor telemetry (Env, GPS, Power) to any MQTT broker. Built to accelerate data pipeline development and E2E testing for frontend and backend engineers without needing physical hardware.
 
 Run it globally without installation:
 ```bash
