@@ -95,6 +95,24 @@ Event-driven delivery with retry/backoff, dead-letter handling, and idempotent s
 
 ## 🚀 Projects
 
+### [MQTT Mock Sensor](https://github.com/thitipongroo/mqtt-mock-sensor) · Node.js, MQTT `📦 Open Source (NPM)`
+
+A zero-config CLI tool published on NPM to generate and publish mock IoT sensor data. Built to help frontend and backend engineers test their IoT dashboards without physical hardware.
+
+[![NPM Version](https://img.shields.io/npm/v/mqtt-mock-sensor?style=flat&color=CB3837&logo=npm)](https://www.npmjs.com/package/mqtt-mock-sensor)
+[![NPM Downloads](https://img.shields.io/npm/dt/mqtt-mock-sensor?style=flat&color=28a745)](https://www.npmjs.com/package/mqtt-mock-sensor)
+
+- **Plug-and-play testing:** Instantly streams randomized temperature, humidity, and motion metrics via MQTT protocol.
+- **Global execution:** Usable instantly by any developer worldwide via `npx mqtt-mock-sensor`.
+
+### [Omni-Tracker](https://github.com/thitipongroo/omni-tracker) · Go, InfluxDB, Playwright, Docker `🚀 New`
+
+A distributed, high-concurrency market intelligence platform. Treats web scrapers as "IoT sensors" to ingest massive e-commerce data into a Golang Fiber API, storing time-series trends in InfluxDB with real-time LINE Bot alerts.
+
+- **High-Concurrency:** Handled by Go and Fiber to absorb parallel scraper traffic spikes.
+- **Time-Series Analysis:** InfluxDB for optimized storage and fast aggregation of price drops.
+- **E2E Automation:** Fully containerized via Docker Compose with GitHub Actions CI/CD pipeline.
+
 ### [Construction OS](https://github.com/thitipongroo/cos) · NestJS, Next.js, React Native, Python, Go `🚧 In development`
 
 AI-native construction management platform built for enterprise scale. Currently at Stage 1 (BUILD) — architecture and specs are settled, implementation is underway.
@@ -122,16 +140,6 @@ Industrial IoT monitoring platform — MQTT sensor ingestion, threshold alerting
 - **Testing** — JUnit, Mockito, Testcontainers, Pact contract tests, JMH benchmarks, Pitest mutation testing, ArchUnit, schemathesis fuzzing, k6 load tests
 - **Deploy** — Docker Compose locally; EKS via Terraform and Helm, GitOps with ArgoCD, blue/green and canary rollouts with Argo Rollouts, event-driven autoscaling with KEDA, Velero backup/DR
 - **Frontend** — Next.js 14 App Router, Tailwind, Recharts, react-query, Zustand, list virtualization
-
-### [MQTT Mock Sensor](https://github.com/thitipongroo/mqtt-mock-sensor) · Node.js, MQTT `📦 Open Source (NPM)`
-
-A zero-config CLI tool published on NPM to generate and publish mock IoT sensor data. Built to help frontend and backend engineers test their IoT dashboards without physical hardware.
-
-[![NPM Version](https://img.shields.io/npm/v/mqtt-mock-sensor?style=flat&color=CB3837&logo=npm)](https://www.npmjs.com/package/mqtt-mock-sensor)
-[![NPM Downloads](https://img.shields.io/npm/dt/mqtt-mock-sensor?style=flat&color=28a745)](https://www.npmjs.com/package/mqtt-mock-sensor)
-
-- **Plug-and-play testing:** Instantly streams randomized temperature, humidity, and motion metrics via MQTT protocol.
-- **Global execution:** Usable instantly by any developer worldwide via `npx mqtt-mock-sensor`.
 
 ### [LINE Bot API](https://github.com/thitipongroo/line-bot-api) · Java, Spring Boot `🔄 Active Maintaintance`
 
