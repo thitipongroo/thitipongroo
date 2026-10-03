@@ -69,11 +69,11 @@ The systems below were built under commercial engagements, so the source is prop
 
 ## 🚀 Enterprise Projects
 
-### [Sentinel IoT Platform](https://github.com/thitipongroo/sentinel-iot) · `Java, Spring Boot, Kafka, Kubernetes` `🚧 In development`
+### [Sentinel IoT Platform](https://github.com/thitipongroo/sentinel-iot-platform) · `Java, Spring Boot, Kafka, Kubernetes` `🚧 In development`
 Industrial IoT monitoring platform - MQTT sensor ingestion, threshold alerting, and a full observability stack.
 - **Ingestion & Resilience:** Mosquitto MQTT via Spring Integration, with DLQ routing. Resilience4j circuit breaker and fallback to Redis queue during database downtime.
 
-### [Construction OS](https://github.com/thitipongroo/cos) · `NestJS, React Native, Python, Go` `🚧 In development`
+### [Construction OS](https://github.com/thitipongroo/construction-os) · `NestJS, React Native, Python, Go` `🚧 In development`
 AI-native construction management platform built for enterprise scale. 
 - **Modular monolith over microservices:** One deployable holding all domain modules, with separate services only where throughput boundary justifies it.
 - **Offline-first clients:** Drizzle over expo-sqlite with a sync queue on React Native, reconciling through Kafka; built for sites with no signal.
