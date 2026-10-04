@@ -69,23 +69,26 @@ The systems below were built under commercial engagements, so the source is prop
 
 ## 🚀 Enterprise Projects
 
-### [Sentinel IoT Platform](https://github.com/thitipongroo/sentinel-iot-platform) · `Java, Spring Boot, Kafka, Kubernetes` `🚧 In development`
+### [SENTINEL-IoT-PLATFORM](https://github.com/thitipongroo/sentinel-iot-platform) · `Java, Spring Boot, Kafka, Kubernetes` `🚧 In development`
 Industrial IoT monitoring platform - MQTT sensor ingestion, threshold alerting, and a full observability stack.
 - **Ingestion & Resilience:** Mosquitto MQTT via Spring Integration, with DLQ routing. Resilience4j circuit breaker and fallback to Redis queue during database downtime.
 
-### [Construction OS](https://github.com/thitipongroo/construction-os) · `NestJS, React Native, Python, Go` `🚧 In development`
+### [MQTT-SNIPER](https://github.com/thitipongroo/mqtt-sniper) · `Rust, Tokio` `🚧 In development`
+A blazing-fast MQTT load testing CLI built with Rust. Spawns thousands of concurrent asynchronous clients using the Tokio runtime to stress-test IoT brokers with near-zero memory footprint and no garbage collection pauses.
+
+### [CONSTRUCTION-OS](https://github.com/thitipongroo/construction-os) · `NestJS, React Native, Python, Go` `🚧 In development`
 AI-native construction management platform built for enterprise scale. 
 - **Modular monolith over microservices:** One deployable holding all domain modules, with separate services only where throughput boundary justifies it.
 - **Offline-first clients:** Drizzle over expo-sqlite with a sync queue on React Native, reconciling through Kafka; built for sites with no signal.
 - **Monetary correctness:** Strict database enforcement (`DECIMAL(19,4)`) and float banning via lint rules.
 
-### [Omni-Tracker](https://github.com/thitipongroo/omni-tracker) · `Go, InfluxDB, Playwright, Docker` `🚧 In development`
+### [OMNI-TRACKER](https://github.com/thitipongroo/omni-tracker) · `Go, InfluxDB, Playwright, Docker` `🚧 In development`
 A distributed, high-concurrency market intelligence platform. 
 - Treats web scrapers as "IoT sensors" to ingest massive e-commerce data into a Golang Fiber API.
 - Stores time-series trends in InfluxDB with real-time LINE Bot alerts.
 - Fully containerized via Docker Compose with GitHub Actions CI/CD pipeline.
 
-### [Cypress Cinema Automation](https://github.com/thitipongroo/cypress-cinema-test) · `Cypress` `📚 Portfolio project`
+### [CYPRESS-CINEMA-AUTOMATION](https://github.com/thitipongroo/cypress-cinema-test) · `Cypress` `📚 Portfolio project`
 E2E suite for a cinema booking platform using Page Object Model, JSON Fixture-driven test data, and Mochawesome HTML reports generated in CI.
 
 ### [Embedded & Automation]
