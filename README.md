@@ -39,7 +39,7 @@ I build and maintain open-source developer tools published on **NPM**, **Crates.
 
 ## 🏗️ Featured Systems & Reference Architectures
 
-### ⚡ [SENTINEL-IoT-PLATFORM](https://github.com/thitipongroo/sentinel-iot-platform) · `Java 21` `Spring Boot 3.2` `Kafka` `PostgreSQL 16` `Redis 7` `Next.js 14`
+### ⚡ [SENTINEL-IoT-PLATFORM](https://github.com/thitipongroo/sentinel-iot-platform) · `Java` `Spring Boot` `Kafka` `PostgreSQL` `Redis` `Next.js`
 
 **Production-grade Industrial IoT Monitoring, Alerting & Device Twin Platform**
 
@@ -55,7 +55,7 @@ I build and maintain open-source developer tools published on **NPM**, **Crates.
 - **Multi-Tenant Security & Financial Precision:** Enforces tenant isolation via **PostgreSQL Row-Level Security (RLS)**, Keycloak OIDC (`RS256` JWT), W3C DID/VC verifiable credentials, and strict monetary arithmetic (`DECIMAL(19,4)` with custom lint rules banning floating-point types).
 - **Offline-First Field Operations:** React Native mobile client built on **Drizzle ORM + expo-sqlite** with a deterministic sync queue reconciling field mutations through Kafka when connectivity is restored.
 
-### 📊 [OMNI-TRACKER](https://github.com/thitipongroo/omni-tracker) · `Go (Fiber)` `Python (FastAPI)` `Node.js (Playwright)` `InfluxDB` `Redis`
+### 📊 [OMNI-TRACKER](https://github.com/thitipongroo/omni-tracker) · `Go (Fiber)` `FastAPI` `Playwright` `InfluxDB` `Redis`
 
 **Distributed E-Commerce Market Intelligence & AI Analysis Platform**
 
