@@ -51,7 +51,7 @@ Production-ready, published CLI utilities designed for high-concurrency broker s
 - **Time-Series Storage & Data Lifecycle:** Utilizes monthly range-partitioned database tables for time-series telemetry, coupled with automated rollup roll-ups and WAL archiving for point-in-time recovery.
 - **Production Observability:** Instrumented end-to-end with **OpenTelemetry**, exporting distributed traces and metrics to Prometheus and Jaeger for microsecond-level latency diagnosis.
 
-### 🏗️ [ConstructionOS](https://www.construction-os.io/) · `Enterprise Platform`
+### 🏗️ [CONSTRUCTION OS](https://www.construction-os.io/) · `Enterprise Platform`
 **Enterprise Operating System for Construction Supply Chain, Site Operations & Financial Workflows**  
 *Live Platform:* [www.construction-os.io](https://www.construction-os.io/)
 
