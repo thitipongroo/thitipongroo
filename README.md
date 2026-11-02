@@ -1,146 +1,114 @@
-# THITIPONG ROONGPRASERT
+<div align="center">
+  <h1>THITIPONG ROONGPRASERT</h1>
+  <h3>Senior Software Engineer · Distributed Backend & Systems Architect · IoT & Data Pipelines</h3>
+  <p>
+    Designing fault-tolerant, high-concurrency backend systems, event-driven data pipelines, and developer tooling with <b>Java, Go, Rust, TypeScript, and Python</b>.<br/>
+    Focused on resilient ingestion, deterministic state, observability, and production-grade operational discipline.
+  </p>
 
-**Backend Engineer — Java/Spring Boot & Node.js** · Bangkok, Thailand
-
-I build backend services for production traffic. Most recently a real-time analytics platform sustaining 10M+ requests/day at sub-100ms response times, built on Kafka and Redis. Two platforms I'm building at **One Inspector and Consultant**, my own consultancy: **[Sentinel IoT Platform](https://github.com/thitipongroo/sentinel-iot)**, an industrial monitoring system in Java 21 / Spring Boot with MQTT ingestion, circuit-breaker resilience and GitOps deployment to EKS; and **[Construction OS](https://github.com/thitipongroo/cos)**, an AI-native construction management platform currently in development.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thitipongroo/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thitipong.roo@gmail.com)
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Data & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Infrastructure & CI**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=flat&logo=jaeger&logoColor=black)
-
-**Frontend & Testing**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat&logo=testcontainers&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
+  <p>
+    <a href="https://www.npmjs.com/package/mqtt-mock-sensor"><img src="https://img.shields.io/npm/v/mqtt-mock-sensor?style=for-the-badge&logo=npm&logoColor=white&label=mqtt-mock-sensor&color=CB3837" alt="NPM mqtt-mock-sensor" /></a>
+    <a href="https://crates.io/crates/mqtt-sniper"><img src="https://img.shields.io/crates/v/mqtt-sniper?style=for-the-badge&logo=rust&logoColor=white&label=mqtt-sniper&color=DEA584" alt="Crates.io mqtt-sniper" /></a>
+    <a href="https://linkedin.com/in/thitipongroo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:thitipong.roo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-## Production Work
+## 📦 Published Open-Source CLI Tools
 
-The systems below were built under commercial engagements, so the source is proprietary and not published here. Happy to walk through the architecture and trade-offs in conversation.
+I build and maintain open-source developer tools published on **NPM**, **Crates.io**, and **GitHub Container Registry (GHCR)** to accelerate IoT data pipeline development, chaos testing, and high-concurrency broker benchmarking.
 
-**Real-time analytics platform** — Kafka, Redis, Docker
-Sustains 10M+ requests/day. Redis caching layer brought API responses under 100ms; Kafka-based ingestion decoupled the write path from reporting reads so traffic spikes stopped degrading dashboard performance. Collapsed client reporting from a multi-hour batch job into on-demand results.
-
-**Distributed chat service** — WebSocket, Pub/Sub
-Pub/sub fan-out keeps message delivery consistent across nodes instead of pinning users to a single server.
-
-**High-throughput notification pipeline** — Kafka
-Event-driven delivery with retry/backoff, dead-letter handling, and idempotent sends.
+| Package | Ecosystem | Key Capabilities | Quick Run |
+| :--- | :--- | :--- | :--- |
+| **[mqtt-mock-sensor](https://github.com/thitipongroo/mqtt-mock-sensor)** | ![NPM](https://img.shields.io/npm/v/mqtt-mock-sensor?style=flat-square&logo=npm&color=CB3837) ![Downloads](https://img.shields.io/npm/dt/mqtt-mock-sensor?style=flat-square&color=28a745) ![CI](https://img.shields.io/github/actions/workflow/status/thitipongroo/mqtt-mock-sensor/ci.yml?style=flat-square&logo=githubactions) | Zero-config IoT telemetry simulator supporting **Multi-Tenant Schema v2**, **Bi-directional Device Shadow sync**, **Chaos Engineering** (`--chaos-jitter`, `--chaos-disconnect`), **Anomaly/DLQ injection**, and **Enterprise mTLS**. Published with SLSA OIDC provenance. | `npx mqtt-mock-sensor --preset sentinel-industrial --anomaly-rate 10` |
+| **[mqtt-sniper](https://github.com/thitipongroo/mqtt-sniper)** | ![Crates.io](https://img.shields.io/crates/v/mqtt-sniper?style=flat-square&logo=rust&color=DEA584) ![Downloads](https://img.shields.io/crates/d/mqtt-sniper?style=flat-square&color=28a745) ![CI](https://img.shields.io/github/actions/workflow/status/thitipongroo/mqtt-sniper/ci.yml?style=flat-square&logo=githubactions) | High-concurrency MQTT load-testing CLI built with **Rust & Tokio**. Spawns thousands of async clients with near-zero memory overhead, **HDR Latency Histograms** (`p50`/`p95`/`p99`), Pub/Sub fan-out & soak testing, **mTLS**, and JSON CI reporting. | `cargo install mqtt-sniper` or `docker run --rm ghcr.io/thitipongroo/mqtt-sniper:latest` |
 
 ---
 
-## Projects
+## 💼 Commercial Production Impact
 
-### [Construction OS](https://github.com/thitipongroo/cos) · NestJS, Next.js, React Native, Python, Go `🚧 In development`
+*Selected architectures delivered under commercial engagements (proprietary source code — happy to walk through system design and trade-offs in detail):*
 
-AI-native construction management platform built for enterprise scale. Currently at Stage 1 (BUILD) — architecture and specs are settled, implementation is underway.
-
-- **Modular monolith over microservices** — one NestJS deployable holding all domain modules (identity, tenant, project, BoQ, procurement, site-ops, finance, equipment, workforce), with separate services only where a language or throughput boundary justifies it: Python/FastAPI for LLM gateway, embedding, OCR and transcription; Go for analytics, knowledge-graph and MQTT IoT ingestion
-- **Multi-tenancy** — shared database with `tenant_id` and PostgreSQL row-level security, chosen over schema-per-tenant and documented as an ADR
-- **Offline-first clients** — Serwist PWA with IndexedDB on web, Drizzle over expo-sqlite with a sync queue on React Native, reconciling through Kafka; built for sites with no signal
-- **Monetary correctness** — `DECIMAL(19,4)` in PostgreSQL, `decimal.js` and Python `decimal` in application code, floats banned by lint rule
-- **Event bus** — Kafka with Avro and Schema Registry under `BACKWARD_TRANSITIVE` compatibility; Temporal for long-running workflows
-- **Auth split by user reality** — phone + SMS OTP via AWS SNS for site workers, Keycloak OIDC with RS256 JWT for office staff
-- **Polyglot persistence** — PostgreSQL + TimescaleDB, ClickHouse (analytics), Neo4j (knowledge graph), pgvector + OpenSearch (retrieval), MinIO (objects), Redis
-- **Operational discipline** — PgBouncer in transaction mode with direct PostgreSQL connections prohibited, OpenTelemetry → Grafana/Loki/Prometheus, secrets via Vault and AWS Secrets Manager, ~60 ADRs and a 100% line/branch coverage mandate
-
-### [Sentinel IoT Platform](https://github.com/thitipongroo/sentinel-iot) · Java 21, Spring Boot 3.2, Kafka, Kubernetes
-
-Industrial IoT monitoring platform — MQTT sensor ingestion, threshold alerting, multi-channel notifications, live WebSocket dashboard, and a full observability stack.
-
-**Measured:** cache read path sustains 1,000 req/s (60k+ ops/min) at p95 112 ms / p99 187 ms under k6 load test, against SLO targets of p95 < 200 ms and p99 < 500 ms.
-
-- **Ingestion** — Mosquitto MQTT via Spring Integration, with DLQ routing for invalid payloads and unknown devices; Kafka event streaming with Avro schemas and Confluent Schema Registry
-- **Resilience** — Resilience4j circuit breaker and retry; when Postgres is unavailable the dashboard stays live off Redis while writes queue to a Redis replay list, drained every 30s once the breaker recovers
-- **Data** — PostgreSQL 16 with monthly range partitioning, hourly aggregates, row-level security for multi-tenancy, Flyway migrations; CloudNativePG + Barman for HA replication and WAL archiving
-- **Realtime** — Spring WebSocket with Redis pub/sub fan-out across nodes
-- **Observability** — Prometheus, Grafana, OpenTelemetry/Micrometer, Jaeger tracing, structured JSON logging with MDC request correlation, multi-window burn-rate SLO alerting
-- **Testing** — JUnit, Mockito, Testcontainers, Pact contract tests, JMH benchmarks, Pitest mutation testing, ArchUnit, schemathesis fuzzing, k6 load tests
-- **Deploy** — Docker Compose locally; EKS via Terraform and Helm, GitOps with ArgoCD, blue/green and canary rollouts with Argo Rollouts, event-driven autoscaling with KEDA, Velero backup/DR
-- **Frontend** — Next.js 14 App Router, Tailwind, Recharts, react-query, Zustand, list virtualization
-
-### [LINE Bot API](https://github.com/thitipongroo/line-bot-api) · Java, Spring Boot
-
-RESTful service integrated with the LINE Messaging API, handling webhook events and message delivery.
-
-### [Codebox Platform](https://github.com/thitipongroo/codebox-platform) · Node.js, Express, MongoDB `✅ Completed`
-
-Full-stack platform for user and content management. Currently migrating the frontend from server-rendered EJS to React + Tailwind CSS.
-
-### [Cypress Cinema Automation](https://github.com/thitipongroo/cypress-cinema-test) · Cypress 13 `📚 Portfolio project`
-
-E2E suite for a cinema booking platform, covering language switching → cinema selection → movie selection → showtime verification → seat selection.
-
-- Page Object Model — selectors and interactions encapsulated per page class
-- Fixture-driven test data, decoupled from test logic via JSON
-- Mochawesome HTML reports, generated in CI on every push and pull request
-- Retry strategy for flaky network-dependent tests
-
-### [Remote Vote](https://github.com/thitipongroo/remote-vote-firebase) · Firebase, embedded C `✅ Completed`
-
-Secure remote voting system with live result updates, backed by a microcontroller client. Firebase Authentication, Cloud Functions, and Realtime Database.
-
-### [Smart Window](https://github.com/thitipongroo/smart-window) · Embedded C++ `✅ Completed`
-
-IoT automation that reads environmental sensor data and drives microcontroller-based window control logic.
+- **High-Throughput Real-Time Analytics Platform (`10M+ req/day`):** Engineered a Redis caching layer that reduced API response latencies to **sub-100ms**, paired with **Apache Kafka** event ingestion to decouple write-heavy telemetry streams from analytical read queries during traffic spikes.
+- **Distributed Real-Time Chat Infrastructure:** Designed horizontal WebSocket gateways backed by **Redis Pub/Sub fan-out**, ensuring deterministic message delivery across stateless nodes without sticky-session bottlenecks.
+- **Fault-Tolerant Notification Pipeline:** Built an event-driven multi-channel delivery engine utilizing **Kafka retry/exponential backoff**, Dead-Letter Queues (DLQ), and idempotent consumer guarantees.
 
 ---
 
-## Certifications
+## 🏗️ Featured Systems & Reference Architectures
 
-Google Cybersecurity · Prompt Engineering & Agentic AI (AIS Academy) · Secure Coding: OWASP Top 10 · Secure Coding on Frontend
+### ⚡ [SENTINEL-IoT-PLATFORM](https://github.com/thitipongroo/sentinel-iot-platform) · `Java` `Spring Boot` `Kafka` `PostgreSQL` `Redis` `Next.js`
+
+**Production-grade Industrial IoT Monitoring, Alerting & Device Twin Platform**
+
+- **Verified Load Performance:** Cache read path sustains **1,000 req/s (60,000+ ops/min)** at **p95 112ms / p99 187ms** under k6 load testing.
+- **Resilience & Self-Healing:** Mosquitto MQTT ingestion via Spring Integration with automated schema validation, **DLQ routing** (`factory/telemetry/dlq`), **Resilience4j circuit breakers**, and an automated **Redis replay queue** that buffers writes during DB outages and drains upon recovery.
+- **Enterprise Data & Observability:** Monthly range-partitioned PostgreSQL tables, **CloudNativePG HA + Barman WAL archiving**, **Confluent Schema Registry (Avro)**, distributed rate limiting (**Bucket4j Redis**), and full **OpenTelemetry + Jaeger + Prometheus/Grafana** tracing.
+
+### 🏢 [CONSTRUCTION-OS](https://github.com/thitipongroo/construction-os) · `NestJS` `Go` `Python` `Next.js` `React Native` `Kafka`
+
+**AI-Native Enterprise Construction Operating System (Polyglot Modular Monolith)**
+
+- **Pragmatic Architecture (68+ ADRs):** Structured as a **NestJS Modular Monolith** behind Kong API Gateway, extracting separate microservices strictly at language/throughput boundaries (**Go** high-throughput ingestion workers, **Python FastAPI** AI/OCR/BIM pipelines, and **Temporal** workflow orchestration).
+- **Multi-Tenant Security & Financial Precision:** Enforces tenant isolation via **PostgreSQL Row-Level Security (RLS)**, Keycloak OIDC (`RS256` JWT), W3C DID/VC verifiable credentials, and strict monetary arithmetic (`DECIMAL(19,4)` with custom lint rules banning floating-point types).
+- **Offline-First Field Operations:** React Native mobile client built on **Drizzle ORM + expo-sqlite** with a deterministic sync queue reconciling field mutations through Kafka when connectivity is restored.
+
+### 📊 [OMNI-TRACKER](https://github.com/thitipongroo/omni-tracker) · `Go` `FastAPI` `Playwright` `InfluxDB` `Redis`
+
+**Distributed E-Commerce Market Intelligence & AI Analysis Platform**
+
+- **Polyglot Microservices:** Treats stealth **Playwright** scraper workers as distributed sensors consuming jobs from Redis queues (with queue-poisoning protection) and ingesting price time-series into **Go Fiber** and **InfluxDB**.
+- **Agentic Market Insights:** Combines historical volatility metrics from InfluxDB with live news aggregation in a **Python + Google Gemini AI** service to push interactive `BUY/WAIT/SELL` Flex Message alerts via LINE Messaging API.
+
+### 🧪 Quality Engineering & Embedded Foundations
+
+- **[Cypress Cinema E2E Suite](https://github.com/thitipongroo/cypress-cinema-test):** Automated E2E testing framework built on Page Object Model (POM), fixture-driven test data, and CI-generated Mochawesome HTML reports.
+- **[LINE Bot REST API](https://github.com/thitipongroo/line-bot-api):** Java Spring Boot webhook & messaging service integrated with LINE Messaging API.
+- **[Embedded & IoT Hardware](https://github.com/thitipongroo/remote-vote-firebase):** Low-level microcontroller firmware in **C/C++** ([Remote Vote Firebase](https://github.com/thitipongroo/remote-vote-firebase), [Smart Window Automation](https://github.com/thitipongroo/smart-window)) bridging hardware sensors with cloud functions.
+
+---
+
+## 🛠️ Technical Skills & Ecosystem
+
+**Languages & Core Runtimes**<br/>
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Backend Frameworks & APIs**<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio_Async-000000?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data Stores, Messaging & Event Streaming**<br/>
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT_/_Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+**DevOps, Observability & Quality Engineering**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry_/_Jaeger-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus_/_Grafana-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![k6](https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white)
+
+---
+
+## 🏆 Certifications & Security Training
+
+- **Cybersecurity & AppSec:** Google Cybersecurity Professional • Secure Coding: OWASP Top 10 • Secure Coding on Frontend
+- **AI Engineering:** Prompt Engineering & Agentic AI
